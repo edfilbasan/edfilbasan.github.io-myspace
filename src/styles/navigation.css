@@ -6,10 +6,12 @@
     padding: 0px;
     margin: 0px;
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 
 .navLinkGroup {
+    width: 828px;
     display: flex;
     position: absolute;
     align-items: center;
@@ -22,6 +24,10 @@
     text-align: left;
     padding: 0px 8px;
     text-decoration: none;
+}
+
+.navLinkText:first-child {
+    padding-left: 0px;
 }
 
 .navLinkText:hover {

@@ -5,3 +5,43 @@ body {
     background-color: #F6F8FA;
     cursor: crosshair;
 }
+
+h1 {
+    font-family: Verdana-Bold;
+    font-size: 16px;
+    color: #22262A;
+    text-align: left;
+    margin: 0px 0px;
+}
+
+strong {
+    font-family: Verdana;
+    font-weight: 700;
+    font-size: 12px;
+    color: #22262A;
+    text-align: left;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 12px;
+    color: #22262A;
+    text-align: left;
+    margin: 0px 0px;
+}
+
+a {
+    font-family: Verdana;
+    font-weight: 700;
+    font-size: 12px;
+    color: #013299;
+    text-align: left;
+    text-decoration: none;
+}
+
+
+a:hover {
+    cursor: pointer;
+    color: #CC0000;
+    text-decoration: underline;
+}
