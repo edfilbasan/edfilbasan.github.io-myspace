@@ -1,60 +1,35 @@
 import React, { Component } from "react";
 import "./App.css";
-import "./styles/home.css";
+import { Home } from "./page/home.js";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { withRouter } from "react-router-dom";
 
 class App extends Component {
   render() {
     return (
-      <div>
-        <div id="navigation">
-          <center>
-            <a
-              href="https://web.archive.org/web/20180723164813/http://takingbackemochicago.tumblr.com/"
-              className="links1"
-            >
-              HOME
-            </a>
-            |
-            <a
-              href="https://web.archive.org/web/20180723164813/https://takingbackemochicago.tumblr.com/myspaceemoprom"
-              className="links1"
-            >
-              PROJECTS
-            </a>
-            |
-            <a
-              href="https://web.archive.org/web/20180723164813/MAILTO:TAKINGBACKEMO@GMAIL.COM"
-              className="links1"
-            >
-              CONTACT
-            </a>
-            |
-            <a
-              href="https://web.archive.org/web/20180723164813/https://www.facebook.com/TakingBackEmo/"
-              className="links1"
-            >
-              [TWITTER]
-            </a>
-            |
-            <a
-              href="https://web.archive.org/web/20180723164813/https://www.instagram.com/TakingBackEmo/"
-              className="links1"
-            >
-              [LINKEDIN]
-            </a>
-            |
-            <a
-              href="https://web.archive.org/web/20180723164813/https://twitter.com/Taking_Back_Emo"
-              className="links1"
-            >
-              [GITHUB]
-            </a>
-            |
-          </center>
-        </div>
-      </div>
+      <Switch>
+        <Route exact path="/" component={Home} />
+      </Switch>
     );
   }
 }
 
-export default App;
+export default withRouter(App);
+
+// <div>
+//       {/*<App> is wrapped in <BrowserRouter> in index.js*/}
+//         <Switch>
+//           <Route exact path="/" component={Home} />
+//           <Route exact path="/create" component={CreateShotView} />
+//           <Route
+//             exact
+//             path="/previs"
+//             component={PrevisView}
+//           />
+//           <Route exact path="/confirm" component={ConfirmView} />
+//           <Route exact path="/submit" component={SubmitView} />
+//           <Route exact path="/three" component={BaseThreeScene} />
+//           <Route exact path="/notfound" component={NotFound} />
+//           <Route exact path="/empty" component={EmptyView} />
+//         </Switch>
+//     </div>

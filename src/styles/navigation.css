@@ -1,0 +1,38 @@
+#navigation {
+    width: 100vw;
+    height: 32px;
+    background-color: #6698CA;
+    position: static;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.navLinkGroup {
+    display: flex;
+    position: absolute;
+    align-items: center;
+}
+
+.navLinkText {
+    font-family: Verdana;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+    padding: 0px 8px;
+    text-decoration: none;
+}
+
+.navLinkText:hover {
+    font-weight: 700;
+    cursor: pointer;
+}
+
+#navDivider {
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 12px;
+    color: #557A9E;
+    text-align: left;
+}
