@@ -5,7 +5,7 @@ const Navigation = () => {
   return (
     <div id="navigation">
       <section className="navLinkGroup">
-        <a className="navLinkText"> Home </a>
+        <a className="navLinkText">Home</a>
         <p id="navDivider"> | </p>
 
         <a className="navLinkText"> Projects </a>

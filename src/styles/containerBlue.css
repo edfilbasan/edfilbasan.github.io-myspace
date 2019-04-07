@@ -1,0 +1,28 @@
+.contactContainer {
+    border: 3px solid #6699CB;
+    margin-bottom: 20px;
+}
+
+.blueHeader {
+    font-family: Verdana;
+    font-weight: 700;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-align: left;
+    background-color: #6699CB;
+    height: 23px;
+    padding-left: 8px;
+    border: none;
+    line-height: 23px;
+}
+
+#contactImages {
+    margin: 4px 8px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+#contactImages:hover {
+    cursor: pointer;
+}

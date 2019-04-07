@@ -1,6 +1,8 @@
 import React, { Component } from "react";
-import Navigation from "../components/navigation.js";
-import Profile from "../components/profile.js";
+import Navigation from "../components/Navigation.js";
+import Profile from "../components/Profile.js";
+import Contact from "../components/Contact.js";
+import Interests from "../components/Interests.js";
 import "../styles/homeContent.css";
 
 class Home extends Component {
@@ -9,11 +11,18 @@ class Home extends Component {
       <div>
         <Navigation />
         <div className="homeContent">
-          <Profile />
-          <h1 id="extendedNetwork">
-            Edfil Basan is a digital product designer. <br />He is also in your
-            extended network.
-          </h1>
+          <div className="contentColumn">
+            <Profile />
+            <Contact />
+            <Interests />
+          </div>
+
+          <div className="contentColumn">
+            <h1 id="extendedNetwork">
+              Edfil Basan is a digital product designer. <br /> He is in your
+              extended network.
+            </h1>
+          </div>
         </div>
       </div>
     );

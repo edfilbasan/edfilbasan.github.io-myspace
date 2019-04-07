@@ -24,6 +24,7 @@
     text-align: left;
     padding: 0px 8px;
     text-decoration: none;
+    font-weight: 400;
 }
 
 .navLinkText:first-child {
