@@ -22,7 +22,10 @@ const Education = () => {
             <p> Minor: Education</p>
           </section>
 
-          <p className="blueContentDetails" style={{ textAlign: "center" }}>
+          <p
+            className="blueContentDetails"
+            style={{ textAlign: "center", padding: "4px 0px 0px 0px" }}
+          >
             2012 to 2016
           </p>
         </div>
