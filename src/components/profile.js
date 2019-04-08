@@ -34,6 +34,7 @@ const Profile = () => {
           src="https://source.unsplash.com/random/180x180"
           alt="Profile Pic"
         />
+
         <div className="profileDetails">
           <p> "Let's make some good stuff!!" </p>
           <section>
@@ -55,9 +56,9 @@ const Profile = () => {
           </section>
         </div>
       </div>
+
       <section
         style={{
-          marginTop: "8px",
           display: "flex",
           alignItems: "flex-end"
         }}
@@ -75,6 +76,7 @@ const Profile = () => {
           src="https://web.archive.org/web/20091026234641im_/http://www.geocities.com/darkfreed/moodicon/69.gif"
         />
       </section>
+
       <pre
         style={{
           display: "flex",

@@ -9,7 +9,10 @@ const interests = {
     <span>
       I listen to a little and a lot of everything. <br />
       <br /> Check out my{" "}
-      <a href="https://open.spotify.com/user/12100801348?si=NQ9vxiAyRlK805EnUhNmaQ">
+      <a
+        href="https://open.spotify.com/user/12100801348?si=NQ9vxiAyRlK805EnUhNmaQ"
+        target="_blank"
+      >
         playlists.
       </a>
     </span>

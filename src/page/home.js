@@ -3,7 +3,9 @@ import Navigation from "../components/Navigation.js";
 import Profile from "../components/Profile.js";
 import Contact from "../components/Contact.js";
 import Interests from "../components/Interests.js";
-import "../styles/homeContent.css";
+import Details from "../components/Details.js";
+import Education from "../components/Education.js";
+import "../styles/HomeContent.css";
 
 class Home extends Component {
   render() {
@@ -15,6 +17,8 @@ class Home extends Component {
             <Profile />
             <Contact />
             <Interests />
+            <Details />
+            <Education />
           </div>
 
           <div className="contentColumn">

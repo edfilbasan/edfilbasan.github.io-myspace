@@ -12,12 +12,8 @@
 .contentColumn {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
-.contentMargin {
-    margin: 10px 10px;
-}
 
 #extendedNetwork {
     border-style: solid;
