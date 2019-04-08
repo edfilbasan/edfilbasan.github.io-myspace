@@ -1,6 +1,0 @@
-.blogColumn {
-    display: grid;
-    grid-template-columns: auto;
-    row-gap: 16px;
-    margin-bottom: 20px;
-}

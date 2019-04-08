@@ -1,9 +1,15 @@
 import React from "react";
-import "../styles/Blog.css";
+
+const blogColumn = {
+  display: "grid",
+  gridTemplateColumns: "auto",
+  rowGap: "16px",
+  marginBottom: "20px"
+};
 
 const Blog = props => {
   return (
-    <div className="blogColumn">
+    <div style={blogColumn}>
       <strong>Edfil's Latest Blog Entries</strong>
       <p>
         Why designing for AR sucks. (

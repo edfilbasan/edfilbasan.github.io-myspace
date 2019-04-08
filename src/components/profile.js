@@ -1,5 +1,4 @@
 import React from "react";
-import "../styles/Profile.css";
 
 const getCurrentDate = (separator = "/") => {
   let newDate = new Date();
@@ -8,6 +7,13 @@ const getCurrentDate = (separator = "/") => {
   let year = newDate.getFullYear();
 
   return `${month}${separator}${date}${separator}${year}`;
+};
+
+const profileDetails = {
+  marginLeft: "16px",
+  display: "flex",
+  flexDirection: "column",
+  justifyContent: "space-between"
 };
 
 const Profile = () => {
@@ -35,7 +41,7 @@ const Profile = () => {
           alt="Profile Pic"
         />
 
-        <div className="profileDetails">
+        <div style={profileDetails}>
           <p> "Let's make some good stuff!!" </p>
           <section>
             <p> 2X years old </p> <p> California </p> <p> United States </p>

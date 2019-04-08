@@ -39,6 +39,20 @@ a {
     text-decoration: none;
 }
 
+.redNumber {
+    font-family: Verdana;
+    font-size: 14px;
+    color: #CC0000;
+}
+
+.strongRedGroup {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+;
 
 a:hover {
     cursor: pointer;
@@ -49,4 +63,8 @@ a:hover {
 /* In JSX we can create linebreaks with whitespace now. No more divs! */
 .linebreak {
     white-space: pre-line;
+}
+
+.orangeContentContainer {
+    margin-bottom: 20px;
 }
