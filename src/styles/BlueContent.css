@@ -1,8 +1,8 @@
 .blueContentBlock {
-    margin: 2px 2px;
+    margin: 4px 4px;
     display: grid;
     grid-template-columns: 1fr 1.7fr;
-    column-gap: 2px;
+    column-gap: 4px;
 }
 
 p.blueContentHeader {

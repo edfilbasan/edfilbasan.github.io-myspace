@@ -9,6 +9,7 @@ const details = {
       <a
         href="https://gizmodo.com/astrology-is-still-bullshit-and-the-universe-doesnt-car-5733709"
         target="_blank"
+        rel="noopener noreferrer"
       >
         Capricorn
       </a>

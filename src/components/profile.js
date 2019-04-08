@@ -14,7 +14,7 @@ const Profile = () => {
   return (
     <div
       style={{
-        marginBottom: "12px"
+        marginBottom: "20px"
       }}
     >
       <h1

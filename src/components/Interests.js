@@ -12,6 +12,7 @@ const interests = {
       <a
         href="https://open.spotify.com/user/12100801348?si=NQ9vxiAyRlK805EnUhNmaQ"
         target="_blank"
+        rel="noopener noreferrer"
       >
         playlists.
       </a>

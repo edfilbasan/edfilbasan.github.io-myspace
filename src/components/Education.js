@@ -10,9 +10,10 @@ const Education = () => {
         <div className="blueEducationBlock">
           <section className="blueEducationHeader">
             <a
-              href="https://www.google.com"
+              href="https://www.youtube.com/watch?v=5srhwqzBQE8"
               id="blueEducationSchool"
               target="_blank"
+              rel="noopener noreferrer"
             >
               University of California - Berkeley
             </a>
