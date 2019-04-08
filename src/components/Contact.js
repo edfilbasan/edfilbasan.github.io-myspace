@@ -1,11 +1,11 @@
 import React from "react";
-import "../styles/containerBlue.css";
-import ContainerBlue from "./ContainerBlue.js";
+import "../styles/BlueContainer.css";
+import BlueContainer from "./BlueContainer.js";
 
 const Contact = () => {
   return (
     <div>
-      <ContainerBlue header={"Contacting Edfil"}>
+      <BlueContainer header={"Contacting Edfil"}>
         <section id="contactImages">
           <img
             alt="Send a message"
@@ -20,7 +20,7 @@ const Contact = () => {
             onClick={() => console.log("do something")}
           />
         </section>
-      </ContainerBlue>
+      </BlueContainer>
     </div>
   );
 };

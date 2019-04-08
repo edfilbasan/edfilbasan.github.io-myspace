@@ -45,3 +45,8 @@ a:hover {
     color: #CC0000;
     text-decoration: underline;
 }
+
+/* In JSX we can create linebreaks with whitespace now. No more divs! */
+.linebreak {
+    white-space: pre-line;
+}

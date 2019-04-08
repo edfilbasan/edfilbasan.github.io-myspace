@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/profile.css";
+import "../styles/Profile.css";
 
 const getCurrentDate = (separator = "/") => {
   let newDate = new Date();
@@ -45,7 +45,7 @@ const Profile = () => {
               style={{
                 width: "84px",
                 marginBottom: "6px",
-                marginLeft: "-6px"
+                marginLeft: "-4px"
               }}
               alt="Online Now"
             />
