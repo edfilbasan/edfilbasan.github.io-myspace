@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/edfilbasan/edfilbasan.github.io,/precache-manifest.e4299110be40371abee108749f2693ab.js"
+  "/edfilbasan/edfilbasan,/precache-manifest.881d76cf3470b9cf7b6219f3e32f27c7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/edfilbasan/edfilbasan.github.io,/index.html", {
+workbox.routing.registerNavigationRoute("/edfilbasan/edfilbasan,/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
