@@ -1,13 +1,13 @@
 {
-  "main.css": "/edfilbasan/edfilbasan.github.io,/static/css/main.a0553407.chunk.css",
-  "main.js": "/edfilbasan/edfilbasan.github.io,/static/js/main.40d28d98.chunk.js",
-  "main.js.map": "/edfilbasan/edfilbasan.github.io,/static/js/main.40d28d98.chunk.js.map",
-  "runtime~main.js": "/edfilbasan/edfilbasan.github.io,/static/js/runtime~main.7f03e9c8.js",
-  "runtime~main.js.map": "/edfilbasan/edfilbasan.github.io,/static/js/runtime~main.7f03e9c8.js.map",
-  "static/js/2.fa1d4533.chunk.js": "/edfilbasan/edfilbasan.github.io,/static/js/2.fa1d4533.chunk.js",
-  "static/js/2.fa1d4533.chunk.js.map": "/edfilbasan/edfilbasan.github.io,/static/js/2.fa1d4533.chunk.js.map",
-  "index.html": "/edfilbasan/edfilbasan.github.io,/index.html",
-  "precache-manifest.d4aa74ad277cb364c4cb760ba6507578.js": "/edfilbasan/edfilbasan.github.io,/precache-manifest.d4aa74ad277cb364c4cb760ba6507578.js",
-  "service-worker.js": "/edfilbasan/edfilbasan.github.io,/service-worker.js",
-  "static/css/main.a0553407.chunk.css.map": "/edfilbasan/edfilbasan.github.io,/static/css/main.a0553407.chunk.css.map"
+  "main.css": "/edfilbasan/edfilbasan/static/css/main.a0553407.chunk.css",
+  "main.js": "/edfilbasan/edfilbasan/static/js/main.4ae019b4.chunk.js",
+  "main.js.map": "/edfilbasan/edfilbasan/static/js/main.4ae019b4.chunk.js.map",
+  "runtime~main.js": "/edfilbasan/edfilbasan/static/js/runtime~main.67dd5173.js",
+  "runtime~main.js.map": "/edfilbasan/edfilbasan/static/js/runtime~main.67dd5173.js.map",
+  "static/js/2.fa1d4533.chunk.js": "/edfilbasan/edfilbasan/static/js/2.fa1d4533.chunk.js",
+  "static/js/2.fa1d4533.chunk.js.map": "/edfilbasan/edfilbasan/static/js/2.fa1d4533.chunk.js.map",
+  "index.html": "/edfilbasan/edfilbasan/index.html",
+  "precache-manifest.76a79eb68690a1e31aa8058171cd1ec9.js": "/edfilbasan/edfilbasan/precache-manifest.76a79eb68690a1e31aa8058171cd1ec9.js",
+  "service-worker.js": "/edfilbasan/edfilbasan/service-worker.js",
+  "static/css/main.a0553407.chunk.css.map": "/edfilbasan/edfilbasan/static/css/main.a0553407.chunk.css.map"
 }
