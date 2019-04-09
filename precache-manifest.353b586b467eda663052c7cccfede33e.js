@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/edfilbasan/edfilbasan,/static/js/runtime~main.b13594f1.js"
   },
   {
-    "revision": "76ac144fd462bfb2b774",
-    "url": "/edfilbasan/edfilbasan,/static/js/main.6fadd067.chunk.js"
+    "revision": "d591a2a0974f1e159739",
+    "url": "/edfilbasan/edfilbasan,/static/js/main.f22ae550.chunk.js"
   },
   {
     "revision": "917fa33af82de413de12",
     "url": "/edfilbasan/edfilbasan,/static/js/2.fa1d4533.chunk.js"
   },
   {
-    "revision": "76ac144fd462bfb2b774",
+    "revision": "d591a2a0974f1e159739",
     "url": "/edfilbasan/edfilbasan,/static/css/main.a0553407.chunk.css"
   },
   {
-    "revision": "c50d01c213c533bb336fe8e4c4c03977",
+    "revision": "6982cc55e245dfbe634d213447c391b9",
     "url": "/edfilbasan/edfilbasan,/index.html"
   }
 ];
