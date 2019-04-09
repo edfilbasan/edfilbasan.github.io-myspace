@@ -75,11 +75,11 @@ const Profile = () => {
             paddingLeft: "4px"
           }}
         >
-          Mischievous
+          Ecstatic
         </p>
         <img
           alt="mischievous"
-          src="https://web.archive.org/web/20091026234641im_/http://www.geocities.com/darkfreed/moodicon/69.gif"
+          src="http://www.sherv.net/cm/emo/happy/happy.gif"
         />
       </section>
 

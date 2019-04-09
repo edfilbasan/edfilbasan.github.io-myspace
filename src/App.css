@@ -2,7 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
     height: auto;
-    background-image: url(https://media.giphy.com/media/3o6EhOYMhOTANYgHMk/giphy.gif);
+    background-image: url(https://media.giphy.com/media/F3LuIoVXgKAxHS3zFv/giphy.gif);
     background-color: rgba(0, 0, 0, .75);
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,8 +51,9 @@ a:hover {
 }
 
 a.navLinkText:hover {
-    color: #0038A3;
-    font-weight: inherit;
+    font-weight: 700;
+    color: white;
+    text-decoration: underline;
 }
 
 .redNumber {
