@@ -1,5 +1,5 @@
 #navigation {
-    width: 100vw;
+    width: 868px;
     height: 32px;
     background-color: #6698CA;
     position: static;
@@ -8,6 +8,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: auto;
 }
 
 .navLinkGroup {
@@ -15,6 +16,8 @@
     display: flex;
     position: absolute;
     align-items: center;
+    margin-left: 20px;
+    overflow: auto;
 }
 
 .navLinkText {

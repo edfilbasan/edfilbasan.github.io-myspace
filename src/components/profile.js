@@ -90,8 +90,8 @@ const Profile = () => {
           marginBottom: "0px"
         }}
       >
-        <p>View My: </p> <a href="https:/ / www.google.com ">Projects</a>|
-        <a href="https://www.google.com"> Pics </a>
+        <p>View My: </p> <a href="https://www.edfilbasan.com ">Projects</a>|
+        <a href="https://www.edfilbasan.com/photo">Pics</a>
       </pre>
     </div>
   );

@@ -2,8 +2,13 @@ body {
     margin: 0px;
     padding: 0px;
     height: auto;
-    background-color: #F6F8FA;
+    background-image: url(https://media.giphy.com/media/3o6EhOYMhOTANYgHMk/giphy.gif);
+    background-color: rgba(0, 0, 0, .75);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: #F6F8FA; */
     cursor: crosshair;
+
 }
 
 h1 {
@@ -39,6 +44,17 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    cursor: pointer;
+    color: #CC0000;
+    text-decoration: underline;
+}
+
+a.navLinkText:hover {
+    color: #0038A3;
+    font-weight: inherit;
+}
+
 .redNumber {
     font-family: Verdana;
     font-size: 14px;
@@ -50,14 +66,6 @@ a {
     align-items: flex-end;
     margin-top: 0px;
     margin-bottom: 8px;
-}
-
-;
-
-a:hover {
-    cursor: pointer;
-    color: #CC0000;
-    text-decoration: underline;
 }
 
 /* In JSX we can create linebreaks with whitespace now. No more divs! */

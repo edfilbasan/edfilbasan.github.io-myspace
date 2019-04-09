@@ -25,13 +25,3 @@ const ProjectCard = props => {
 };
 
 export default ProjectCard;
-
-// <div>
-//       <strong style={projectTitleColor}> Hello</strong>
-//       <img
-//         alt={props.alt}
-//         src={props.src}
-//         target="_blank"
-//         rel="noopener noreferrer"
-//       />
-//     </div>

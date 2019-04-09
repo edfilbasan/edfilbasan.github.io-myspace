@@ -12,7 +12,8 @@ const photoCard = {
   flexDirection: "column",
   justifyContent: "center",
   alignItems: "center",
-  backgroundColor: "#FF9933"
+  backgroundColor: "#FF9933",
+  paddingBottom: "12px"
 };
 
 const commentCard = {
@@ -37,7 +38,7 @@ const CommentCard = props => {
           href="https://www.google.com"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ margin: "4px auto 8px auto" }}
+          style={{ margin: "8px auto" }}
         >
           {props.name}
         </a>

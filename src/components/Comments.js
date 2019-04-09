@@ -1,29 +1,40 @@
 import React from "react";
 import OrangeHeader from "./OrangeHeader.js";
 import CommentCard from "./CommentCard.js";
+import { getRandomInt } from "../utils.js";
 
 let commentData = {
   "Brian Streem": [
     "Random Portrait",
-    "https://source.unsplash.com/random/",
-    "4/8/19",
+    `https://source.unsplash.com/random/${getRandomInt(
+      124,
+      124
+    )}x${getRandomInt(100, 200)}`,
+    "April 8th, 2019",
     "Edfil did such a good job of making my life easier! Because of him I’m rich!"
   ],
   "Julia Kinsella": [
     "Random Portrait",
-    "https://source.unsplash.com/random/",
-    "4/8/19",
+    `https://source.unsplash.com/random/${getRandomInt(
+      124,
+      124
+    )}x${getRandomInt(100, 200)}`,
+    "April 7th, 2019",
     "Don't hire this guy."
   ],
   "Quincy Jones": [
     "Random Portrait",
-    "https://source.unsplash.com/random/",
-    "4/8/19",
+    `https://source.unsplash.com/random/${getRandomInt(
+      124,
+      124
+    )}x${getRandomInt(100, 200)}`,
+    "March 3rd, 2019",
     "I had to hire Edfil because my other designer quit after not paying her. What’s the deal?"
   ]
 };
 
-const Comments = props => {
+const Comments = () => {
+  console.log(commentData);
   return (
     <div className="orangeContentContainer">
       <OrangeHeader>Edfil's Comments</OrangeHeader>
@@ -55,8 +66,3 @@ const Comments = props => {
 };
 
 export default Comments;
-
-// <pre style={projectAmount}>
-//         <strong>Edfil has </strong> <p className="redNumber">8 </p>
-//         <strong>projects.</strong>
-//       </pre>

@@ -15,25 +15,27 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <Navigation />
         <div className="homeContent">
-          <div className="contentColumn">
-            <Profile />
-            <Contact />
-            <Interests />
-            <Details />
-            <Education />
-          </div>
+          <Navigation />
+          <div className="contentGrid">
+            <div className="contentColumn">
+              <Profile />
+              <Contact />
+              <Interests />
+              <Details />
+              <Education />
+            </div>
 
-          <div className="contentColumn">
-            <h1 id="extendedNetwork">
-              Edfil Basan is a digital product designer. <br /> He is in your
-              extended network.
-            </h1>
-            <Blog />
-            <Blurbs />
-            <Projects />
-            <Comments />
+            <div className="contentColumn">
+              <h1 id="extendedNetwork">
+                Edfil Basan is a digital product designer. <br /> He is in your
+                extended network.
+              </h1>
+              <Blog />
+              <Blurbs />
+              <Projects />
+              <Comments />
+            </div>
           </div>
         </div>
       </div>
