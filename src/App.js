@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div>
         <Switch>
-          <Route exact path={process.env.PUBLIC_URL + "/"} component={Home} />
+          <Route exact path={"/"} component={Home} />
         </Switch>
       </div>
     );
