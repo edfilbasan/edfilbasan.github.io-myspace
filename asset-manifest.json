@@ -1,13 +1,13 @@
 {
-  "main.css": "/edfilbasan/static/css/main.4c379873.chunk.css",
-  "main.js": "/edfilbasan/static/js/main.e7232678.chunk.js",
-  "main.js.map": "/edfilbasan/static/js/main.e7232678.chunk.js.map",
-  "runtime~main.js": "/edfilbasan/static/js/runtime~main.c6c31d7b.js",
-  "runtime~main.js.map": "/edfilbasan/static/js/runtime~main.c6c31d7b.js.map",
-  "static/js/2.fa1d4533.chunk.js": "/edfilbasan/static/js/2.fa1d4533.chunk.js",
-  "static/js/2.fa1d4533.chunk.js.map": "/edfilbasan/static/js/2.fa1d4533.chunk.js.map",
-  "index.html": "/edfilbasan/index.html",
-  "precache-manifest.1c68eb6b786f492498aca61306d20f73.js": "/edfilbasan/precache-manifest.1c68eb6b786f492498aca61306d20f73.js",
-  "service-worker.js": "/edfilbasan/service-worker.js",
-  "static/css/main.4c379873.chunk.css.map": "/edfilbasan/static/css/main.4c379873.chunk.css.map"
+  "main.css": "/edfilbasan/edfilbasan/static/css/main.4c379873.chunk.css",
+  "main.js": "/edfilbasan/edfilbasan/static/js/main.1839477b.chunk.js",
+  "main.js.map": "/edfilbasan/edfilbasan/static/js/main.1839477b.chunk.js.map",
+  "runtime~main.js": "/edfilbasan/edfilbasan/static/js/runtime~main.67dd5173.js",
+  "runtime~main.js.map": "/edfilbasan/edfilbasan/static/js/runtime~main.67dd5173.js.map",
+  "static/js/2.fa1d4533.chunk.js": "/edfilbasan/edfilbasan/static/js/2.fa1d4533.chunk.js",
+  "static/js/2.fa1d4533.chunk.js.map": "/edfilbasan/edfilbasan/static/js/2.fa1d4533.chunk.js.map",
+  "index.html": "/edfilbasan/edfilbasan/index.html",
+  "precache-manifest.c3bba58892ffeafb0bb2ed14ddd93e74.js": "/edfilbasan/edfilbasan/precache-manifest.c3bba58892ffeafb0bb2ed14ddd93e74.js",
+  "service-worker.js": "/edfilbasan/edfilbasan/service-worker.js",
+  "static/css/main.4c379873.chunk.css.map": "/edfilbasan/edfilbasan/static/css/main.4c379873.chunk.css.map"
 }
