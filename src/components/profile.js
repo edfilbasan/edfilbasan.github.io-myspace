@@ -37,8 +37,9 @@ const Profile = () => {
       >
         <img
           id="profilePic"
-          src="https://source.unsplash.com/random/180x180"
+          src="./edfil.jpg"
           alt="Profile Pic"
+          style={{ height: "175px", width: "180px" }}
         />
 
         <div style={profileDetails}>
