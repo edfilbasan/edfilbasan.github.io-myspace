@@ -1,13 +1,13 @@
 {
-  "main.css": "/edfilbasan/static/css/main.4c379873.chunk.css",
-  "main.js": "/edfilbasan/static/js/main.add98804.chunk.js",
-  "main.js.map": "/edfilbasan/static/js/main.add98804.chunk.js.map",
-  "runtime~main.js": "/edfilbasan/static/js/runtime~main.c6c31d7b.js",
-  "runtime~main.js.map": "/edfilbasan/static/js/runtime~main.c6c31d7b.js.map",
-  "static/js/2.fa1d4533.chunk.js": "/edfilbasan/static/js/2.fa1d4533.chunk.js",
-  "static/js/2.fa1d4533.chunk.js.map": "/edfilbasan/static/js/2.fa1d4533.chunk.js.map",
-  "index.html": "/edfilbasan/index.html",
-  "precache-manifest.17083583f7695f32fdcf3b21a3fb2e85.js": "/edfilbasan/precache-manifest.17083583f7695f32fdcf3b21a3fb2e85.js",
-  "service-worker.js": "/edfilbasan/service-worker.js",
-  "static/css/main.4c379873.chunk.css.map": "/edfilbasan/static/css/main.4c379873.chunk.css.map"
+  "main.css": "/myspace/static/css/main.4c379873.chunk.css",
+  "main.js": "/myspace/static/js/main.c6debf58.chunk.js",
+  "main.js.map": "/myspace/static/js/main.c6debf58.chunk.js.map",
+  "runtime~main.js": "/myspace/static/js/runtime~main.bbcc0591.js",
+  "runtime~main.js.map": "/myspace/static/js/runtime~main.bbcc0591.js.map",
+  "static/js/2.fa1d4533.chunk.js": "/myspace/static/js/2.fa1d4533.chunk.js",
+  "static/js/2.fa1d4533.chunk.js.map": "/myspace/static/js/2.fa1d4533.chunk.js.map",
+  "index.html": "/myspace/index.html",
+  "precache-manifest.97212181f84bd175d5775a9e657b6683.js": "/myspace/precache-manifest.97212181f84bd175d5775a9e657b6683.js",
+  "service-worker.js": "/myspace/service-worker.js",
+  "static/css/main.4c379873.chunk.css.map": "/myspace/static/css/main.4c379873.chunk.css.map"
 }
