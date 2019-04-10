@@ -38,7 +38,9 @@ const CommentCard = props => {
           href="https://www.google.com"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ margin: "8px auto" }}
+          style={{
+            margin: "8px auto"
+          }}
         >
           {props.name}
         </a>
@@ -49,9 +51,8 @@ const CommentCard = props => {
           rel="noopener noreferrer"
         />
       </div>
-
       <div style={commentCard}>
-        <strong style={date}>{props.date}</strong>
+        <strong style={date}> {props.date} </strong>
         <p style={comment}> {props.comment} </p>
       </div>
     </div>
