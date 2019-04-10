@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/edfilbasan/static/css/main.4c379873.chunk.css"
   },
   {
-    "revision": "9193bf30590d9edf82abc6d83a93b514",
+    "revision": "95b678418eb1901b0023d89c9e712cd7",
     "url": "/edfilbasan/index.html"
   }
 ];
