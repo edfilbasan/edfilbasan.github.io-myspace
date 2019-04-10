@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 import Home from "./page/Home.js";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import { withRouter } from "react-router-dom";
 
 class App extends Component {
@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div>
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route path={process.env.PUBLIC_URL + "/"} component={Home} />
         </Switch>
       </div>
     );
