@@ -1,13 +1,13 @@
 {
-  "main.css": "/edfilbasan/edfilbasan/static/css/main.a0553407.chunk.css",
-  "main.js": "/edfilbasan/edfilbasan/static/js/main.4ae019b4.chunk.js",
-  "main.js.map": "/edfilbasan/edfilbasan/static/js/main.4ae019b4.chunk.js.map",
-  "runtime~main.js": "/edfilbasan/edfilbasan/static/js/runtime~main.67dd5173.js",
-  "runtime~main.js.map": "/edfilbasan/edfilbasan/static/js/runtime~main.67dd5173.js.map",
-  "static/js/2.fa1d4533.chunk.js": "/edfilbasan/edfilbasan/static/js/2.fa1d4533.chunk.js",
-  "static/js/2.fa1d4533.chunk.js.map": "/edfilbasan/edfilbasan/static/js/2.fa1d4533.chunk.js.map",
-  "index.html": "/edfilbasan/edfilbasan/index.html",
-  "precache-manifest.76a79eb68690a1e31aa8058171cd1ec9.js": "/edfilbasan/edfilbasan/precache-manifest.76a79eb68690a1e31aa8058171cd1ec9.js",
-  "service-worker.js": "/edfilbasan/edfilbasan/service-worker.js",
-  "static/css/main.a0553407.chunk.css.map": "/edfilbasan/edfilbasan/static/css/main.a0553407.chunk.css.map"
+  "main.css": "/edfilbasan/edfilbasan.git/static/css/main.a0553407.chunk.css",
+  "main.js": "/edfilbasan/edfilbasan.git/static/js/main.e7287a33.chunk.js",
+  "main.js.map": "/edfilbasan/edfilbasan.git/static/js/main.e7287a33.chunk.js.map",
+  "runtime~main.js": "/edfilbasan/edfilbasan.git/static/js/runtime~main.155a1131.js",
+  "runtime~main.js.map": "/edfilbasan/edfilbasan.git/static/js/runtime~main.155a1131.js.map",
+  "static/js/2.fa1d4533.chunk.js": "/edfilbasan/edfilbasan.git/static/js/2.fa1d4533.chunk.js",
+  "static/js/2.fa1d4533.chunk.js.map": "/edfilbasan/edfilbasan.git/static/js/2.fa1d4533.chunk.js.map",
+  "index.html": "/edfilbasan/edfilbasan.git/index.html",
+  "precache-manifest.0aedca0dac9ece7f2bbdb9a1f11585df.js": "/edfilbasan/edfilbasan.git/precache-manifest.0aedca0dac9ece7f2bbdb9a1f11585df.js",
+  "service-worker.js": "/edfilbasan/edfilbasan.git/service-worker.js",
+  "static/css/main.a0553407.chunk.css.map": "/edfilbasan/edfilbasan.git/static/css/main.a0553407.chunk.css.map"
 }
