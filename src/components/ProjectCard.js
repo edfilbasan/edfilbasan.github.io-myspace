@@ -8,7 +8,8 @@ const projectCard = {
 };
 
 const projectTitleColor = {
-  color: "#666666"
+  color: "#666666",
+  marginBottom: "2px"
 };
 
 const ProjectCard = props => {
