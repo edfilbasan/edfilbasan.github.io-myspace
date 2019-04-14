@@ -11,7 +11,6 @@ class App extends Component {
       <div>
         <Switch>
           <Route exact path={"/"} component={Home} />
-          <Route path={"/counstruction"} component={Construction} />
         </Switch>
       </div>
     );
@@ -19,3 +18,5 @@ class App extends Component {
 }
 
 export default withRouter(App);
+
+// <Route path={"/counstruction"} component={Construction} />
