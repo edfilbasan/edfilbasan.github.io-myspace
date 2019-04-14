@@ -19,3 +19,8 @@
     color: #013299;
     text-align: left;
 }
+
+#blueEducationSchool:hover {
+    color: #cc0000;
+    text-decoration: underline;
+}
