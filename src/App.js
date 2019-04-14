@@ -9,11 +9,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Router>
-          <Switch>
-            <Route exact path={"/"} component={Home} />
-          </Switch>
-        </Router>
+        <Switch>
+          <Route exact path={"/"} component={Home} />
+        </Switch>
       </div>
     );
   }
