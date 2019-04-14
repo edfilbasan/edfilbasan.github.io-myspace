@@ -1,6 +1,4 @@
 import React from "react";
-import Home from "./Home.js";
-import { BrowserRouter as Link } from "react-router-dom";
 
 const constructionContainer = {
   display: "flex",
