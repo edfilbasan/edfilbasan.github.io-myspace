@@ -52,9 +52,9 @@ const projects = {
   Myspace: [
     "Myspace Project",
     "https://www.hypebot.com/.a/6a00d83451b36c69e201bb08985ade970d-800wi",
-    "https://www.edfilbasan.com/warmer"
+    "https://edfilbasan.github.io/work"
   ],
-  Vermeer: ["Vermeer", "https://bit.ly/2X8M9td"]
+  Vermeer: ["Vermeer", "https://bit.ly/2X8M9td", "https://www.aerobo.com"]
 };
 
 const Projects = () => {
