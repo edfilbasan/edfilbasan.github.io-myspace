@@ -12,7 +12,10 @@ const ProjectCard = props => {
           target="_blank"
           rel="noopener noreferrer"
           style={{
-            width: "100%"
+            width: "100px",
+            height: "92px",
+            objectFit: "cover",
+            objectPosition: "center"
           }}
         />
       </div>

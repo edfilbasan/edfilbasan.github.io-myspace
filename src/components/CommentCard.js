@@ -39,7 +39,7 @@ const CommentCard = props => {
           target="_blank"
           rel="noopener noreferrer"
           style={{
-            margin: "8px auto"
+            margin: "4px auto 12px auto"
           }}
         >
           {props.name}
