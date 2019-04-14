@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 import Home from "./page/Home.js";
-import Construction from "./page/Construction.js";
+// import Construction from "./page/Construction.js";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { withRouter } from "react-router-dom";
 
@@ -11,7 +11,6 @@ class App extends Component {
       <div>
         <Switch>
           <Route exact path={"/"} component={Home} />
-          <Route exact path={"/counstruction"} component={Construction} />
         </Switch>
       </div>
     );
