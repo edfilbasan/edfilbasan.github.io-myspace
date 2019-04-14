@@ -85,7 +85,7 @@ const Projects = () => {
         rel="noopener noreferrer"
         style={{ float: "right" }}
       >
-        <strong style={viewProjects}> View All of Edfil 's Projects</strong>
+        <strong style={viewProjects}> View All of Edfil's Projects</strong>
       </a>
     </div>
   );

@@ -14,7 +14,7 @@ import "../styles/HomeContent.css";
 class Home extends Component {
   render() {
     return (
-      <div>
+      <body className="homeBackground">
         <div className="homeContent">
           <Navigation />
           <div className="contentGrid">
@@ -38,7 +38,7 @@ class Home extends Component {
             </div>
           </div>
         </div>
-      </div>
+      </body>
     );
   }
 }
