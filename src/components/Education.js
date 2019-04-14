@@ -15,18 +15,15 @@ const Education = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <span role="img" aria-label="Bear">
-                🐻
-              </span>
               University of California, Berkeley
-              <span role="img" aria-label="Bear">
-                🐻
-              </span>
             </a>
             <p> Berkeley, California</p>
             <p> Graduated 2016 </p>
             <p> Major: Cognitive Science </p>
             <p> Minor: Education</p>
+            <span role="img" aria-label="Bear">
+              🐻
+            </span>
           </section>
 
           <p

@@ -4,11 +4,11 @@ import BlueContent from "./BlueContent.js";
 
 const interests = {
   General:
-    "XR/AR Technology \n Design Thinking \n 2005-2008 Web Design \n Photography \n Smash Bros.",
+    "XR/AR Technology \n Design Thinking \n 2005-2008 Web Design \n Film Photography \n Smash Bros.",
   Music: (
     <span>
       I listen to a little and a lot of everything. <br />
-      <br /> Check out my{" "}
+      <br /> Check out my
       <a
         href="https://open.spotify.com/user/12100801348?si=NQ9vxiAyRlK805EnUhNmaQ"
         target="_blank"
@@ -18,8 +18,9 @@ const interests = {
       </a>
     </span>
   ),
-  Movies: "TODO: COME UP WITH BETTER CONTENT",
-  Books: "TODO: COME UP WITH BETTER CONTENT",
+  Movies: "The Room \n Spy Kids \n Citizen Kane",
+  Books:
+    "The Design Sprint \n Design of Everyday things \n Creative Confidence \n Hatchet",
   Heroes: "Mom & Dad \n Buster Douglas \n Dave Concepcion"
 };
 
