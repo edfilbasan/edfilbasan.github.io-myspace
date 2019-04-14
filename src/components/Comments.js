@@ -34,7 +34,6 @@ let commentData = {
 };
 
 const Comments = () => {
-  console.log(commentData);
   return (
     <div className="orangeContentContainer">
       <OrangeHeader>Edfil's Comments</OrangeHeader>

@@ -12,19 +12,48 @@ const Blog = () => {
     <div style={blogColumn}>
       <strong>Edfil's Latest Blog Entries</strong>
       <p>
-        Why designing for AR sucks. (
-        <a href="https://www.google.com">View More</a>)
+        Comfortable (
+        <a
+          href="https://www.edfilbasan.com/comfortable"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View More
+        </a>
+        )
       </p>
       <p>
-        Why designers should try coding. (
-        <a href="https://www.google.com">View More</a>)
+        Floating Dandelions (
+        <a
+          href="https://www.edfilbasan.com/floating-dandelions"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View More
+        </a>
+        )
       </p>
       <p>
-        Another pretentious Blog Post. (
-        <a href="https://www.google.com">View More</a>)
+        Hey Summer (
+        <a
+          href="https://www.edfilbasan.com/hey-summer"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View More
+        </a>
+        )
       </p>
       <p>
-        [<a href="https://www.google.com">View all Blog Entries</a>]
+        [
+        <a
+          href="https://www.edfilbasan.com/musings"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View all Blog Entries
+        </a>
+        ]
       </p>
     </div>
   );

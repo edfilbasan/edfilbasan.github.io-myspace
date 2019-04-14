@@ -1,4 +1,5 @@
 import React from "react";
+import { getRandomInt } from "../utils.js";
 
 const projectCard = {
   display: "flex",
@@ -19,6 +20,9 @@ const ProjectCard = props => {
         src={props.src}
         target="_blank"
         rel="noopener noreferrer"
+        style={{
+          width: getRandomInt(100, 120)
+        }}
       />
     </div>
   );

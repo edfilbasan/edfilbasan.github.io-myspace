@@ -8,26 +8,25 @@ const Contact = () => {
       <BlueContainer header={"Contacting Edfil"}>
         <section id="contactImages">
           <a
-            href="mailto:someone@example.com?Subject=Hi%20Edfil!"
-            target="_blank"
+            href="mailto:edgdulay@berkeley.edu.com?Subject=Hi%20Edfil!"
             rel="noopener noreferrer"
           >
             <img
               alt="Send a message"
               src="./message.png"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ width: "132px", height: "16px", marginRight: "20px" }}
+              style={{ width: "132px", height: "16px", marginRight: "16px" }}
             />
           </a>
 
-          <a href="https://www.linkedin.com/in/edfil">
+          <a
+            href="https://www.linkedin.com/in/edfilbasan"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
             <img
               alt="Add friend"
               src="./friends.png"
               style={{ width: "132px", height: "20px" }}
-              target="_blank"
-              rel="noopener noreferrer"
             />
           </a>
         </section>

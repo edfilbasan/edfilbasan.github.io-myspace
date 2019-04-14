@@ -49,14 +49,18 @@ const Navigation = () => {
           <a
             className="navLinkText"
             href="mailto:edgdulay@berkeley.edu.com?Subject=Hi%20Edfil!"
-            target="_blank"
             rel="noopener noreferrer"
           >
             Contact
           </a>
           <p id="navDivider"> | </p>
 
-          <a className="navLinkText" href="https://github.com/edfilbasan">
+          <a
+            className="navLinkText"
+            href="https://github.com/edfilbasan"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Github
           </a>
           <p id="navDivider"> | </p>
@@ -64,12 +68,19 @@ const Navigation = () => {
           <a
             className="navLinkText"
             href="https://www.linkedin.com/in/edfilbasan/"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             LinkedIn
           </a>
           <p id="navDivider"> | </p>
 
-          <a className="navLinkText" href="https://twitter.com/edfilbasan">
+          <a
+            className="navLinkText"
+            href="https://twitter.com/edfilbasan"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Twitter
           </a>
         </section>

@@ -39,7 +39,7 @@ const Profile = () => {
           id="profilePic"
           src="./edfil.jpg"
           alt="Profile Pic"
-          style={{ height: "175px", width: "180px" }}
+          style={{ height: "174px", width: "200px" }}
         />
 
         <div style={profileDetails}>

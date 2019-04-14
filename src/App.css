@@ -7,8 +7,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: #F6F8FA; */
-    cursor: crosshair;
-
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=99842), crosshair;
 }
 
 h1 {

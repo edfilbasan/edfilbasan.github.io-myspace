@@ -1,7 +1,6 @@
 import React from "react";
 import OrangeHeader from "./OrangeHeader.js";
 import ProjectCard from "./ProjectCard.js";
-import { getRandomInt } from "../utils.js";
 
 const projectGrid = {
   display: "grid",
@@ -20,62 +19,17 @@ const viewProjects = {
 };
 
 const projects = {
-  "Google UI": [
-    "Google Project",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      120
-    )}x${getRandomInt(100, 100)}`
-  ],
-  Blastars: [
-    "Blastars Project",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      105
-    )}x${getRandomInt(100, 120)}`
-  ],
-  "Look Around": [
-    "Look Around Project",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      101
-    )}x${getRandomInt(100, 101)}`
-  ],
-  "Daily UI": [
-    "Daily UI Challenge Project",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      102
-    )}x${getRandomInt(100, 102)}`
-  ],
-  Upcomer: [
-    "Upcomer Project",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      103
-    )}x${getRandomInt(100, 104)}`
-  ],
-  Warmer: [
-    "Warmer Project",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      110
-    )}x${getRandomInt(100, 150)}`
-  ],
+  "Google UI": ["Google Project", "http://tinyurl.com/y636zf9o"],
+  Blastars: ["Blastars Project", "http://tinyurl.com/y6szejuu"],
+  "Look Around": ["Look Around Project", "http://tinyurl.com/y4hb73kj"],
+  "Daily UI": ["Daily UI Challenge Project", "http://tinyurl.com/yy5kotmc"],
+  Upcomer: ["Upcomer Project", "http://tinyurl.com/yy5kotmc"],
+  Warmer: ["Warmer Project", "http://tinyurl.com/y4ds8v8l"],
   Myspace: [
     "Myspace Project",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      111
-    )}x${getRandomInt(100, 111)}`
+    "https://www.hypebot.com/.a/6a00d83451b36c69e201bb08985ade970d-800wi"
   ],
-  Vermeer: [
-    "Vermeer",
-    `https://source.unsplash.com/random/${getRandomInt(
-      100,
-      111
-    )}x${getRandomInt(100, 111)}`
-  ]
+  Vermeer: ["Vermeer", "https://bit.ly/2X8M9td"]
 };
 
 const Projects = () => {
@@ -83,8 +37,8 @@ const Projects = () => {
     <div className="orangeContentContainer">
       <OrangeHeader> Edfil's Top 8 Projects</OrangeHeader>
       <pre className="strongRedGroup">
-        <strong> Edfil has </strong> <p className="redNumber">a lot</p>
-        <strong> of projects. </strong>
+        <strong>Edfil has </strong> <p className="redNumber">8</p>
+        <strong> projects.</strong>
       </pre>
       <div style={projectGrid}>
         {Object.keys(projects).map((key, i) => {

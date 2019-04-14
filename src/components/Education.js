@@ -15,7 +15,7 @@ const Education = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              University of California - Berkeley
+              🐻University of California, Berkeley🐻
             </a>
             <p> Berkeley, CALIFORNIA</p>
             <p> Graduated 2016 </p>
