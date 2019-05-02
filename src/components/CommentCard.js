@@ -35,7 +35,7 @@ const CommentCard = props => {
     <div style={commentsWrapper}>
       <div style={photoCard}>
         <a
-          href="https://www.google.com"
+          href={props.link}
           target="_blank"
           rel="noopener noreferrer"
           style={{
@@ -45,6 +45,7 @@ const CommentCard = props => {
           {props.name}
         </a>
         <img
+          style={{ width: "120px" }}
           alt={props.alt}
           src={props.src}
           target="_blank"
