@@ -4,7 +4,7 @@ import BlueContent from "./BlueContent.js";
 
 const interests = {
   General:
-    "XR/AR Technology \n Design Thinking \n 2005-2008 Web Design \n Film Photography \n Smash Bros.",
+    "Design Processes \n XR/AR Technology \n Mobile & Desktop UI \n 2005-2008 Web Design \n Photography \n Smash Bros. \n Unironic Dabbing",
   Music: (
     <span>
       I listen to a little and a lot of everything. <br />
@@ -20,8 +20,8 @@ const interests = {
   ),
   Movies: "The Room \n Spy Kids \n Citizen Kane",
   Books:
-    "The Design Sprint \n Design of Everyday things \n Creative Confidence \n Hatchet",
-  Heroes: "Mom & Dad \n Buster Douglas \n Dave Concepcion"
+    "The Design Sprint \n Design of Everyday things \n Creative Confidence",
+  Heroes: "Mom & Dad \n David Bowie"
 };
 
 const Interests = () => {

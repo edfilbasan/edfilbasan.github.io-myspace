@@ -41,7 +41,7 @@ const projects = {
   ],
   Upcomer: [
     "Upcomer Project",
-    "http://tinyurl.com/yy5kotmc",
+    "https://static1.squarespace.com/static/5a9773bd96e76f01d45ad2ef/t/5c106101aa4a99e39247410f/1546484156970/2500x1667.png?format=1500w",
     "https://www.edfilbasan.com/upcomer"
   ],
   Warmer: [
