@@ -15,7 +15,7 @@ let commentData = {
     "Random Portrait",
     `https://media.licdn.com/dms/image/C5103AQHiHXAcFZ_Gog/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=DVTHrUDjjRb00V6GjIVvnvzlMftjdGZbYbPtZ_lT9f8`,
     "April 7th, 2019",
-    "Edfil is incredible at what he does. He understands design and production simultaneously. He delivered an amazing solution for our Thrift/ed app that didn't break the bank or exhaust my engineering team. Because of him I won Marquette's Brewed Ideas Pitch Competition, securing $15K in funding",
+    "Edfil is incredible at what he does. He understands design and production simultaneously. He delivered an amazing solution for our Thrift/ed app that didn't break the bank or exhaust my engineering team. Because of him, I won Marquette's Brewed Ideas Pitch Competition, securing $15K in funding",
     "https://www.linkedin.com/in/julie-kinsella-a54918116/"
   ],
   "Quincy Jones": [
