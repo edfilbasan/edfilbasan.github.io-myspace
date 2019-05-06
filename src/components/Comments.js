@@ -8,7 +8,7 @@ let commentData = {
     "Random Portrait",
     `https://media.licdn.com/dms/image/C4D03AQGxcEI757W96w/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=8xJ-2WIdVgbARgkeZMw2eY2dwoiR26f-_jppH-3ZKog`,
     "April 8th, 2019",
-    "Edfil is a master of formulating design solutions. He takes the time to understand not only production capabilities but also business needs. He was instrumental to helping Vermeer Drones secure 500K in funding from Genius NY. ",
+    "Edfil is a master of formulating design solutions. He takes the time to understand not only user needs, but also production capabilities business KPI's. He was instrumental to helping Vermeer Drones secure $500K in funding from Genius NY. ",
     "https://www.linkedin.com/in/brianstreem/"
   ],
   "Julia Kinsella": [
