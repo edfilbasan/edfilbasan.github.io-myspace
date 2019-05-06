@@ -44,13 +44,15 @@ const CommentCard = props => {
         >
           {props.name}
         </a>
-        <img
-          style={{ width: "120px" }}
-          alt={props.alt}
-          src={props.src}
-          target="_blank"
-          rel="noopener noreferrer"
-        />
+        <a href={props.link} target="_blank" rel="noopener noreferrer">
+          <img
+            style={{ width: "120px" }}
+            alt={props.alt}
+            src={props.src}
+            target="_blank"
+            rel="noopener noreferrer"
+          />
+        </a>
       </div>
       <div style={commentCard}>
         <strong style={date}> {props.date} </strong>
