@@ -14,7 +14,7 @@ const Contact = () => {
             <img
               alt="Send a message"
               src="./message.png"
-              style={{ width: "132px", height: "16px", marginRight: "16px" }}
+              style={{ width: "132px", height: "16px", marginRight: "20px" }}
             />
           </a>
 
