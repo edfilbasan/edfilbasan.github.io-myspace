@@ -77,10 +77,11 @@ const Profile = () => {
           }}
         >
           Ecstatic
-        </p>
+        </p>{" "}
         <img
-          alt="mischievous"
-          src="http://www.sherv.net/cm/emo/happy/happy.gif"
+          style={{ height: "20px" }}
+          alt="happy"
+          src="https://web.archive.org/web/20090829011948/http://geocities.com/nickie030572/smileydance.gif"
         />
       </section>
 
