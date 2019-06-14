@@ -44,26 +44,30 @@ const projects = {
     "https://static1.squarespace.com/static/5a9773bd96e76f01d45ad2ef/t/5c106101aa4a99e39247410f/1546484156970/2500x1667.png?format=1500w",
     "https://www.edfilbasan.com/upcomer"
   ],
-  Warmer: [
-    "Warmer Project",
-    "http://tinyurl.com/y4ds8v8l",
-    "https://www.edfilbasan.com/warmer"
-  ],
-  Myspace: [
-    "Myspace Project",
-    "https://www.hypebot.com/.a/6a00d83451b36c69e201bb08985ade970d-800wi",
-    "https://edfilbasan.github.io/work"
-  ],
-  Vermeer: ["Vermeer", "https://bit.ly/2X8M9td", "https://www.aerobo.com"]
+  Vermeer: [
+    "Vermeer",
+    "https://media.licdn.com/dms/image/C4D0BAQFvBAs02HdK-w/company-logo_200_200/0?e=2159024400&v=beta&t=pPUIl5vxXsuhuTy96aingm5uZnbwty4E-PG265ES-sU",
+    "https://www.getvermeer.com"
+  ]
+  // Warmer: [
+  //   "Warmer Project",
+  //   "http://tinyurl.com/y4ds8v8l",
+  //   "https://www.edfilbasan.com/warmer"
+  // ],
+  // Myspace: [
+  //   "Myspace Project",
+  //   "https://www.hypebot.com/.a/6a00d83451b36c69e201bb08985ade970d-800wi",
+  //   "https://edfilbasan.github.io/work"
+  // ],
 };
 
 const Projects = () => {
   return (
     <div className="orangeContentContainer">
-      <OrangeHeader> Edfil's Top 8 Projects</OrangeHeader>
+      <OrangeHeader> Edfil's Top 6 Projects</OrangeHeader>
       <pre className="strongRedGroup">
-        <strong>Edfil has </strong> <p className="redNumber">8</p>
-        <strong> projects.</strong>
+        <strong>Edfil has </strong> <p className="redNumber">a lot</p>
+        <strong> of projects.</strong>
       </pre>
       <div style={projectGrid}>
         {Object.keys(projects).map((key, i) => {

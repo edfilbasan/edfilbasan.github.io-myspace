@@ -1,7 +1,7 @@
 import React from "react";
 import OrangeHeader from "./OrangeHeader.js";
 import CommentCard from "./CommentCard.js";
-import { getRandomInt } from "../utils.js";
+// import { getRandomInt } from "../utils.js";
 
 let commentData = {
   "Brian Streem": [
