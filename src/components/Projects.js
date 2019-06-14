@@ -64,7 +64,7 @@ const projects = {
 const Projects = () => {
   return (
     <div className="orangeContentContainer">
-      <OrangeHeader> Edfil's Top 6 Projects</OrangeHeader>
+      <OrangeHeader> Edfil's Top 7 Projects</OrangeHeader>
       <pre className="strongRedGroup">
         <strong>Edfil has </strong> <p className="redNumber">a lot</p>
         <strong> of projects.</strong>
