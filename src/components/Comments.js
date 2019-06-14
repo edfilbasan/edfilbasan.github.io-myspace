@@ -33,9 +33,9 @@ const Comments = () => {
       <OrangeHeader>Edfil's Comments</OrangeHeader>
       <pre className="strongRedGroup">
         <strong>Displaying </strong>
-        <p className="redNumber">5 </p>
+        <p className="redNumber">3 </p>
         <strong>of </strong>
-        <p className="redNumber">5 </p>
+        <p className="redNumber">3 </p>
         <strong>comments </strong>
         <p>
           (

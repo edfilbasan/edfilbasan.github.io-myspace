@@ -48,16 +48,16 @@ const projects = {
     "Vermeer",
     "https://media.licdn.com/dms/image/C4D0BAQFvBAs02HdK-w/company-logo_200_200/0?e=2159024400&v=beta&t=pPUIl5vxXsuhuTy96aingm5uZnbwty4E-PG265ES-sU",
     "https://www.getvermeer.com"
+  ],
+  Myspace: [
+    "Myspace Project",
+    "https://www.hypebot.com/.a/6a00d83451b36c69e201bb08985ade970d-800wi",
+    "https://www.edfilbasan.com/sandbox#block-yui_3_17_2_1_1557259889017_31823"
   ]
   // Warmer: [
   //   "Warmer Project",
   //   "http://tinyurl.com/y4ds8v8l",
   //   "https://www.edfilbasan.com/warmer"
-  // ],
-  // Myspace: [
-  //   "Myspace Project",
-  //   "https://www.hypebot.com/.a/6a00d83451b36c69e201bb08985ade970d-800wi",
-  //   "https://edfilbasan.github.io/work"
   // ],
 };
 
