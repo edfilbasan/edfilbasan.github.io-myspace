@@ -5,14 +5,14 @@ import CommentCard from "./CommentCard.js";
 
 let commentData = {
   "Brian Streem": [
-    "Random Portrait",
+    "Brian Streem Photo",
     `https://media.licdn.com/dms/image/C4D03AQGxcEI757W96w/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=8xJ-2WIdVgbARgkeZMw2eY2dwoiR26f-_jppH-3ZKog`,
     "April 8th, 2019",
     "Edfil is a master of formulating design solutions. He takes the time to understand not only user needs, but also production capabilities business KPI's. He was instrumental to helping Vermeer Drones secure $500K in funding from Genius NY. ",
     "https://www.linkedin.com/in/brianstreem/"
   ],
   "Julia Kinsella": [
-    "Random Portrait",
+    "Julia Kinsella Photo",
     `https://media.licdn.com/dms/image/C5103AQHiHXAcFZ_Gog/profile-displayphoto-shrink_800_800/0?e=1562198400&v=beta&t=DVTHrUDjjRb00V6GjIVvnvzlMftjdGZbYbPtZ_lT9f8`,
     "April 7th, 2019",
     "Edfil is incredible at what he does. He understands design and production simultaneously. He delivered an amazing solution for our Thrift/ed app that didn't break the bank or exhaust my engineering team. Because of him, I won Marquette's Brewed Ideas Pitch Competition, securing $15K in funding",
