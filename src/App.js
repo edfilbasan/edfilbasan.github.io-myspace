@@ -18,5 +18,3 @@ class App extends Component {
 }
 
 export default withRouter(App);
-
-// <Route path={"/counstruction"} component={Construction} />
