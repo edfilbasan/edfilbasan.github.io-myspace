@@ -9,6 +9,7 @@ import Blog from "../components/Blog.js";
 import Blurbs from "../components/Blurbs.js";
 import Projects from "../components/Projects.js";
 import Comments from "../components/Comments.js";
+// import Darkmode from "darkmode-js";
 import "../styles/HomeContent.css";
 
 class Home extends Component {
@@ -25,7 +26,6 @@ class Home extends Component {
               <Details />
               <Education />
             </div>
-
             <div className="contentColumn">
               <h1 id="extendedNetwork">
                 Edfil Basan is a digital product designer. <br /> He is in your
@@ -44,3 +44,5 @@ class Home extends Component {
 }
 
 export default Home;
+
+// new Darkmode().showWidget()
