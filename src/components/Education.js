@@ -21,9 +21,16 @@ const Education = () => {
             <p> Graduated 2016 </p>
             <p> Major: Cognitive Science </p>
             <p> Minor: Education</p>
-            <span role="img" aria-label="Bear">
-              🐻
-            </span>
+            <a
+              href="https://www.youtube.com/watch?v=5srhwqzBQE8"
+              id="blueEducationSchool"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span role="img" aria-label="Bear">
+                🐻
+              </span>
+            </a>
           </section>
 
           <p
