@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://edfilbasan.github.io/work",
   "dependencies": {
+    "browserslist": "^4.6.2",
+    "caniuse-lite": "^1.0.30000974",
     "darkmode-js": "^1.3.4",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
