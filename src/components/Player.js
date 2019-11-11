@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "../styles/Player.css";
-import YoutTube from "react-youtube";
 
 class Player extends Component {
   constructor() {
@@ -9,7 +8,13 @@ class Player extends Component {
       isPlaying: false
     };
     this.handleClick = this.togglePlay.bind(this);
-    this.audio = new Audio("https://youtu.be/rZoD8JEFjAE");
+    this.audio = new Audio("./MCR.mp3");
+  }
+
+  componentDidMount() {
+    this.audio.addEventListener("ended", () => {
+      this.setState({ isPlaying: !this.state.isPlaying });
+    });
   }
 
   togglePlay = () => {
@@ -55,8 +60,10 @@ class Player extends Component {
 
         <div className="mmp-display-container">
           <div className="mmp-song-info-container">
-            <div className="mmp-song-name">hello world!</div>
-            <div className="mmp-artist-name">hello world!</div>
+            <div className="mmp-song-name" style={{ fontWeight: "bold" }}>
+              I'm Not Okay
+            </div>
+            <div className="mmp-artist-name"></div>My Chemical Romance
           </div>
 
           <div className="mmp-eq-container">
