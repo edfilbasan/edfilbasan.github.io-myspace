@@ -51,7 +51,7 @@ const projects = {
   ],
   Myspace: [
     "Myspace Project",
-    "https://www.hypebot.com/.a/6a00d83451b36c69e201bb08985ade970d-800wi",
+    "https://a1-images.myspacecdn.com/images04/8/60c164f7e0b941c6b30c4eaf8b279bf1/600x600.jpg",
     "https://www.edfilbasan.com/sandbox#block-yui_3_17_2_1_1557259889017_31823"
   ]
   // Warmer: [

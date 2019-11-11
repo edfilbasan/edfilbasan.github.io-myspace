@@ -9,7 +9,7 @@ class Player extends Component {
       isPlaying: false
     };
     this.handleClick = this.togglePlay.bind(this);
-    this.audio = new Audio("http://streaming.tdiradio.com:8000/house.mp3");
+    this.audio = new Audio("https://youtu.be/rZoD8JEFjAE");
   }
 
   togglePlay = () => {
