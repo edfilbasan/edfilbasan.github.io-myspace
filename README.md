@@ -1,4 +1,4 @@
-##Bringing back Myspace
+## Bringing Back Myspace
 
 Sometimes I get nostalgic for days past. I kind of miss the days when social media wasn’t plagued by angry trolls, Russian bots, and like-thirsty friends. Myspace was a digital wild west where none of that mattered. It was a time when all we worried about were scary chain bulletins and who was on our top 8.
 
