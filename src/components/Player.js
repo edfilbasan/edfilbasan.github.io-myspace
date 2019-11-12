@@ -44,7 +44,7 @@ class Player extends Component {
       <div className="mmp-ui-container">
         <div className="mmp-button-container">
           <button
-            style={{ cursor: "crosshair" }}
+            style={{ cursor: "crosshair", outline: "none" }}
             type="button"
             onClick={this.togglePlay}
           >
